@@ -639,11 +639,11 @@
             const currentHour = new Date().getHours();
             const buttons = document.querySelectorAll(".order-btn");
 
-            // Restaurant closed hours (11 PM to 7 AM)
-            if (currentHour >= 23 || currentHour < 7) {
+            // Restaurant closed hours (1 AM to 7 AM)
+            if (currentHour >= 1 || currentHour < 7) {
                 buttons.forEach(button => {
                     button.disabled = true;
-                    button.textContent = "Restaurant Closed";
+                    button.textContent = "Orders Closed";
                 });
             }
         }
@@ -773,6 +773,7 @@
 </body>
 
 </html>
+
 
 
 
