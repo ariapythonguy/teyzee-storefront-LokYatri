@@ -15,7 +15,7 @@
             "veg": true,
             "rating": 4.5,
             "offer": "20% OFF",
-            "startTime": 1,
+            "startTime": 7,
             "endTime": 23
         },
         {
@@ -28,7 +28,7 @@
             "veg": true,
             "rating": 4.2,
             "offer": "15% OFF",
-            "startTime": 1,
+            "startTime": 7,
             "endTime": 23
         },
         {
@@ -41,7 +41,7 @@
             "veg": false,
             "rating": 4.7,
             "offer": "25% OFF",
-            "startTime": 1,
+            "startTime": 7,
             "endTime": 23
         },
         {
@@ -54,7 +54,7 @@
             "veg": false,
             "rating": 4.3,
             "offer": "10% OFF",
-            "startTime": 1,
+            "startTime": 7,
             "endTime": 23
         },
         {
@@ -67,7 +67,7 @@
             "veg": true,
             "rating": 4.0,
             "offer": "Early Bird 30% OFF",
-            "startTime": 1,
+            "startTime": 7,
             "endTime": 23
         },
         {
@@ -80,7 +80,7 @@
             "veg": false,
             "rating": 4.8,
             "offer": "Weekend Special 20% OFF",
-            "startTime": 1,
+            "startTime": 7,
             "endTime": 23
         },
         {
@@ -93,7 +93,7 @@
             "veg": true,
             "rating": 4.6,
             "offer": "Nature Special 15% OFF",
-            "startTime": 1,
+            "startTime": 7,
             "endTime": 23
         },
         {
@@ -106,7 +106,7 @@
             "veg": false,
             "rating": 4.4,
             "offer": "Seaside 25% OFF",
-            "startTime": 1,
+            "startTime": 7,
             "endTime": 23
         },
         {
@@ -119,7 +119,7 @@
             "veg": false,
             "rating": 4.1,
             "offer": "Staycation 20% OFF",
-            "startTime": 1,
+            "startTime": 7,
             "endTime": 23
         }
     ]
